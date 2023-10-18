@@ -5,7 +5,7 @@
  <a href="https://www.instagram.com/biazfa/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 
  ## *About🔎*
- #### *I live in Cajamar São Paulo, but I grew up in the interior of Minas Gerais*
+ #### *I live in Cajamar São Paulo*
  
 
 
