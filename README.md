@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="bit.ly/ana-bia-linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/ana-beatriz-souza156/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com" target="_blank">
