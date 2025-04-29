@@ -52,4 +52,4 @@
 
 ### ✉️ Vamos conversar!
 
-Se quiser trocar uma ideia sobre programação, carreira ou só bater um papo, me chama lá no [LinkedIn](https://www.linkedin.com/in/ana-beatriz-souza-9a81681207/)! 😊
+Se quiser trocar uma ideia sobre programação, carreira ou só bater um papo, me chama lá no (https://www.linkedin.com/in/ana-beatriz-souza156//)! 😊
