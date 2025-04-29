@@ -17,7 +17,7 @@
 
 ### ✨ Sobre mim
 
-🎓 Formada em **Análise e Desenvolvimento de Sistemas**  
+🎓Formada em **Análise e Desenvolvimento de Sistemas**  
 📍 Moro em **Cajamar, São Paulo**  
 📚 Atualmente aprendendo: **Python, Git e GitHub**  
 🚀 Buscando crescer na área de **Desenvolvimento Web** e **Suporte Técnico**
